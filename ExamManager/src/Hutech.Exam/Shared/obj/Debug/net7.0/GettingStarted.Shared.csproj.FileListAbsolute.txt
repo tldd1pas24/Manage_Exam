@@ -1,0 +1,28 @@
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.deps.json
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.dll
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.pdb
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.AssemblyInfoInputs.cache
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.AssemblyInfo.cs
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.csproj.CoreCompileInputs.cache
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.dll
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\refint\GettingStarted.Shared.dll
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.pdb
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\ref\GettingStarted.Shared.dll
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.runtimeconfig.json
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.csproj.AssemblyReference.cache
+E:\workspace\Blazor WebAssembly\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.genruntimeconfig.cache
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.deps.json
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.runtimeconfig.json
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.dll
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\bin\Debug\net7.0\GettingStarted.Shared.pdb
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.csproj.AssemblyReference.cache
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.AssemblyInfoInputs.cache
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.AssemblyInfo.cs
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.csproj.CoreCompileInputs.cache
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.dll
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\refint\GettingStarted.Shared.dll
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.pdb
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\GettingStarted.Shared.genruntimeconfig.cache
+E:\đồ án cơ sở\GettingStarted\GettingStarted\Shared\obj\Debug\net7.0\ref\GettingStarted.Shared.dll
