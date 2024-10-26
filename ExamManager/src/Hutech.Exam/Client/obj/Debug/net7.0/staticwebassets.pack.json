@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\obj\\Debug\\net7.0\\compressed\\0vrk1zhdhd.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\audio\\What_are_you_going_to_do.mp3",
+      "PackagePath": "staticwebassets\\audio\\What_are_you_going_to_do.mp3"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\audio\\helloim-going-to-talk-about-b1672025838.mp3",
+      "PackagePath": "staticwebassets\\audio\\helloim-going-to-talk-about-b1672025838.mp3"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\Result\\style.css",
+      "PackagePath": "staticwebassets\\css\\Result\\style.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\admin\\ManageExam.css",
+      "PackagePath": "staticwebassets\\css\\admin\\ManageExam.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\admin\\MessageBox.css",
+      "PackagePath": "staticwebassets\\css\\admin\\MessageBox.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\admin\\monitor\\global.css",
+      "PackagePath": "staticwebassets\\css\\admin\\monitor\\global.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\admin\\monitor\\style.css",
+      "PackagePath": "staticwebassets\\css\\admin\\monitor\\style.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\admin\\monitor\\styleguide.css",
+      "PackagePath": "staticwebassets\\css\\admin\\monitor\\styleguide.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\exam\\reset.css",
+      "PackagePath": "staticwebassets\\css\\exam\\reset.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\exam\\style.css",
+      "PackagePath": "staticwebassets\\css\\exam\\style.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\info\\info.css",
+      "PackagePath": "staticwebassets\\css\\info\\info.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\login\\login.css",
+      "PackagePath": "staticwebassets\\css\\login\\login.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\main_layout\\notauthorize.css",
+      "PackagePath": "staticwebassets\\css\\main_layout\\notauthorize.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\css\\monitor.css",
+      "PackagePath": "staticwebassets\\css\\monitor.css"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\data.png",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\data.png"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\excel.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\excel.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\frame-1.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\frame-1.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\frame.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\frame.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\header.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\header.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\left-arrow-alt-regular-24.png",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\left-arrow-alt-regular-24.png"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\line-10.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\line-10.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\line-11.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\line-11.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\pdf.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\pdf.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\print.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\print.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\admin\\monitor\\right-arrow-alt-regular-24.png",
+      "PackagePath": "staticwebassets\\images\\admin\\monitor\\right-arrow-alt-regular-24.png"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\exam\\Ellipse 1.svg",
+      "PackagePath": "staticwebassets\\images\\exam\\Ellipse 1.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\exam\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\exam\\Logo.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\exam\\ava.jpg",
+      "PackagePath": "staticwebassets\\images\\exam\\ava.jpg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\exam\\clock-stand-svgrepo-com 1.svg",
+      "PackagePath": "staticwebassets\\images\\exam\\clock-stand-svgrepo-com 1.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\garden_radius.png",
+      "PackagePath": "staticwebassets\\images\\garden_radius.png"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\login\\password.svg",
+      "PackagePath": "staticwebassets\\images\\login\\password.svg"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\login\\username.png",
+      "PackagePath": "staticwebassets\\images\\login\\username.png"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\images\\map_Oxy.png",
+      "PackagePath": "staticwebassets\\images\\map_Oxy.png"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\exam.js",
+      "PackagePath": "staticwebassets\\js\\exam.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\jquery.jslatex.js",
+      "PackagePath": "staticwebassets\\js\\jquery.jslatex.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\mathJaxBlazor.js",
+      "PackagePath": "staticwebassets\\js\\mathJaxBlazor.js"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\mathJaxBlazor.js.map",
+      "PackagePath": "staticwebassets\\js\\mathJaxBlazor.js.map"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\mathJaxBlazor.ts",
+      "PackagePath": "staticwebassets\\js\\mathJaxBlazor.ts"
+    },
+    {
+      "Id": "E:\\đồ án cơ sở\\HutechExam2024\\src\\Hutech.Exam\\Client\\wwwroot\\js\\sweetalert.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Hutech.Exam.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Hutech.Exam.Client.props",
+      "PackagePath": "build\\Hutech.Exam.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Hutech.Exam.Client.props",
+      "PackagePath": "buildMultiTargeting\\Hutech.Exam.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Hutech.Exam.Client.props",
+      "PackagePath": "buildTransitive\\Hutech.Exam.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

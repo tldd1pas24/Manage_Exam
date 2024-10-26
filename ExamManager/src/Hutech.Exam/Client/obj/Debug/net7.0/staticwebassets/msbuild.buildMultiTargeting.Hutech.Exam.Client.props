@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hutech.Exam.Client.props" />
+</Project>

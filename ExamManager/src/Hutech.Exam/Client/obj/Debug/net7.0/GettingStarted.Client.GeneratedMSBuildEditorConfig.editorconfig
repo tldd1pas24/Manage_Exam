@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = GettingStarted.Client
+build_property.RootNamespace = GettingStarted.Client
+build_property.ProjectDir = D:\Research2\08-08-2024\GettingStarted\GettingStarted\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Research2\08-08-2024\GettingStarted\GettingStarted\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Forbidden403.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yYmlkZGVuNDAzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Admin/AdminLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Admin/ExamMonitor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRXhhbU1vbml0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Admin/ManageExam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlRXhhbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Admin/MessageBox/MBCongGio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZUJveFxNQkNvbmdHaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Admin/MessageBox/MBKichHoatCaThi.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZUJveFxNQktpY2hIb2F0Q2FUaGkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Exam/Exam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhhbVxFeGFtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Info.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Latext/Equation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGF0ZXh0XEVxdWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/Pages/Result.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Research2/08-08-2024/GettingStarted/GettingStarted/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
